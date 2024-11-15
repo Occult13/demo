@@ -7,7 +7,7 @@
 <p align="center">
 </p>
 
-> ✍ Sinh viên năm I tại Đại học Sư phạm TPHCM
+>🙋‍♂️🙋‍♂ Sinh viên năm I tại Đại học Sư phạm TPHCM
 > ##  📫Liên lạc với tôi qua:
 Gmail: phucnguyen1112006@gmail.com
 </p>
@@ -15,6 +15,7 @@ Sdt : 0984686325
 </p>
 MSSV : 50.01.103.059
 </p>
+> ## 🤞 Một số thông tin cá nhân :
 
 </head>
 
