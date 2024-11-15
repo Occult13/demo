@@ -15,6 +15,10 @@ Sdt : 0984686325
 </p>
 MSSV : 50.01.103.059
 </p>
+Quê quán : Đồng Tháp
+</p>
+Tôn giáo : Không
+
 > ## 🤞 Một số thông tin cá nhân :
 
 </head>
@@ -32,27 +36,26 @@ MSSV : 50.01.103.059
 			<div class=" Học tập ">
 				<h2>Học tập</h2>
 				<p>
-					<b> Học sinh giỏi 12 năm 
+					<b> Đạt danh hiệu học sinh giỏi 12 năm
 				</p>
 				<p>
 					<b> Hạng I hsg lịch sử cấp huyện
 				</p> 
 				<p>	
 					<b> Hạng III hsg lịch sử cấp tỉnh
-			 	</p>	
+			 	</p>		
 			</div>
-			<div class="Skills">
-				<h2>Skills</h2>
+			<div>	
+				<h2>Kỹ năng</h2>
 				<ul>
 					<li>
-						<b> Kỹ năng giao tiếp, nắm bắt thái độ tốt
+						<b> Sự sáng tạo
 					</li>
 					<li>
-						<b>Frontend : HTML5, CSS3,
-							JavaScript, React</b>
+						<b> Tìm hiểu và giải quyết vấn đề
 					</li>
 					<li>
-						<b>Backend : Node.js</b>
+						<b> Tính tư duy logic
 					</li>
 				</ul>
 			</div>
