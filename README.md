@@ -32,8 +32,8 @@ Tôn giáo : Không
 					alt="gfg-logo"
 					style="width:100px;
 							height:100px;"></div>
-			</div>
-			<div class=" Học tập ">
+			</div> 
+		<div class=" Học tập ">
 				<h2>Học tập</h2>
 				<p>
 					<b> Đạt danh hiệu học sinh giỏi 12 năm
@@ -66,11 +66,12 @@ Tôn giáo : Không
 					<li>Tiếng anh</li>
 				</ul>
 			</div>
-			<div class="Hobbies">
-				<h2>Hobbies</h2>
+			<div class="Sở thích">
+				<h2>Sở thích</h2>
 				<ul>
-					<li>Playing cricket</li>
-					<li>Swimming</li>
+					<li>Chơi cờ♟️</li>
+					<li>Đọc sách📖</li>
+					<li>Nghe nhạc🎶</li>
 				</ul>
 			</div>
 		</div>
