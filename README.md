@@ -44,7 +44,7 @@ MSSV : 50.01.103.059
 				<h2>Skills</h2>
 				<ul>
 					<li>
-						<b> 
+						<b> Kỹ năng giao tiếp, nắm bắt thái độ tốt
 					</li>
 					<li>
 						<b>Frontend : HTML5, CSS3,
