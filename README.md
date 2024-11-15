@@ -73,47 +73,7 @@ Tôn giáo : Không
 					<li>Đọc sách📖</li>
 					<li>Nghe nhạc🎶</li>
 				</ul>
-			</div>
-		</div>
-		<div class="right">
-			<div class="name">
-				<h1>GeeksforGeeks</h1>
-			</div>
-			<div class="title">
-				<p>Web Developer</p>
-			</div>
-			<div class="Summary">
-				<h2>Summary</h2>
-				<p>
-					To secure a challenging position in a
-					reputable organization
-					to expand my learning knowledge and skill
-				</p>
-			</div>
-			<div class="Experience">
-				<h2>Experience</h2>
-				<h3>Abc webdev pvt ltd - Senior Web Developer</h3>
-				<p>January 2022 to Present</p>
-				<ul>
-					<li>
-						Actively engaged in web creative
-						design and development.
-					</li>
-					<li>
-						Designing project & planning
-					</li>
-				</ul>
-				<h3>Xyz webdev pvt ltd - junior web developer</h3>
-				<p>August 2021 to December 2021</p>
-				<ul>
-					<li>
-						Actively engaged in web creative
-						design and development.
-					</li>
-					<li>Designing project & planning</li>
-					<li>Working on designing</li>
-				</ul>
-			</div>
+			</div>		
 			<div class="Education">
 				<h2>Education</h2>
 				<table>
