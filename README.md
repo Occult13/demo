@@ -23,7 +23,7 @@ MSSV : 50.01.103.059
 		<div class="left">
 			<div class="image">
 				<img src=
-"https://media.geeksforgeeks.org/wp-content/uploads/20220202083519/gfglogo.png"
+"icons8-write-67.png"
 					alt="gfg-logo"
 					style="width:100px;
 							height:100px;">
