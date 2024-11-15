@@ -49,21 +49,21 @@ Tôn giáo : Không
 				<h2>Kỹ năng</h2>
 				<ul>
 					<li>
-						<b> Sự sáng tạo
-					</li>
+						<b> Sự sáng tạo 
+					</li>	
 					<li>
-						<b> Tìm hiểu và giải quyết vấn đề
+						<b> Tìm hiểu và giải quyết vấn đề 
 					</li>
 					<li>
 						<b> Tính tư duy logic
 					</li>
 				</ul>
 			</div>
-			<div class="Language">
-				<h2>Language</h2>
+			<div class="Ngôn ngữ">
+				<h2>Ngôn ngữ</h2>
 				<ul>
-					<li>English</li>
-					<li>Hindi</li>
+					<li>Tiếng việt</li>
+					<li>Tiếng anh</li>
 				</ul>
 			</div>
 			<div class="Hobbies">
