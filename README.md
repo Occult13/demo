@@ -44,6 +44,9 @@ Tôn giáo : Không
 				<p>	
 					<b> Hạng III hsg lịch sử cấp tỉnh
 			 	</p>		
+					<p>
+						<b> Senior tại Câu Lạc Bộ Tiếng Anh E CLUB
+					</p>	
 			</div>
 			<div>	
 				<h2>Kỹ năng</h2>
