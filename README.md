@@ -26,23 +26,25 @@ MSSV : 50.01.103.059
 "icons8-write-67.png"
 					alt="gfg-logo"
 					style="width:100px;
-							height:100px;">
+							height:100px;"></div>
 			</div>
-			<div class="Contact">
-				<h2>Contact</h2>
+			<div class=" Học tập ">
+				<h2>Học tập</h2>
 				<p>
-					<b>Email id:</b>xyz@gmail.com
+					<b> Học sinh giỏi 12 năm 
 				</p>
 				<p>
-					<b>Mobile no :</b>1234567890
-				</p>
+					<b> Hạng I hsg lịch sử cấp huyện
+				</p> 
+				<p>	
+					<b> Hạng III hsg lịch sử cấp tỉnh
+			 	</p>	
 			</div>
 			<div class="Skills">
 				<h2>Skills</h2>
 				<ul>
 					<li>
-						<b>Programming Languages :
-							Python, Java, C++</b>
+						<b> 
 					</li>
 					<li>
 						<b>Frontend : HTML5, CSS3,
