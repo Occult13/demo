@@ -118,19 +118,20 @@ Tôn giáo : Không
 				<h2>Education</h2>
 				<table>
 					<tr>
-						<th>University/college </th>
-						<th>Passing year </th>
-						<th>percentage/cgpa</th>
+						<th> Trường học </th>
+						<th> Năm học </th>
 					</tr>
 					<tr>
-						<td>xyz</td>
-						<td>2020</td>
-						<td>8.9</td>
+						<td>cấp 1</td>
+						<td>2012-2018</td>
 					</tr>
 					<tr>
-						<td>pqr</td>
-						<td>2018</td>
-						<td>89%</td>
+						<td>cấp 2</td>
+						<td>2018-2021</td>
+					</tr>
+					<tr>
+						<td>cấp 3</td>
+						<td>2021-2024</td>
 					</tr>
 				</table>
 			</div>
