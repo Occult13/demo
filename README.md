@@ -24,14 +24,6 @@ Tôn giáo : Không
 </head>
 
 <body>
-	<div class="full">
-		<div class="left">
-			<div class="image">
-				<img src=
-"icons8-write-67.png"
-					alt="gfg-logo"
-					style="width:100px;
-							height:100px;"></div>
 			</div> 
 		<div class=" Học tập ">
 				<h2>Học tập</h2>
